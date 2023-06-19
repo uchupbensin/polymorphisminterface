@@ -1,0 +1,15 @@
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\polymorphisminterface.csproj.AssemblyReference.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\polymorphisminterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\polymorphisminterface.AssemblyInfoInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\polymorphisminterface.AssemblyInfo.cs
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\polymorphisminterface.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\bin\Debug\net6.0\polymorphisminterface.exe
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\bin\Debug\net6.0\polymorphisminterface.deps.json
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\bin\Debug\net6.0\polymorphisminterface.runtimeconfig.json
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\bin\Debug\net6.0\polymorphisminterface.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\bin\Debug\net6.0\polymorphisminterface.pdb
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\polymorphisminterface.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\refint\polymorphisminterface.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\polymorphisminterface.pdb
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\polymorphisminterface.genruntimeconfig.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polymorphisminterface\obj\Debug\net6.0\ref\polymorphisminterface.dll
